@@ -6,6 +6,6 @@ I decided to share my annotations of papers I read to keep me motivated.
 
 
 ## Useful links
-⋅⋅* A
+* A
 ⋅⋅* B
 ⋅⋅* C
