@@ -1,5 +1,11 @@
 # Academic papers I've read
 
-teste
+I decided to share my annotations of papers I read to keep me motivated.
 
-# ABC
+## Papers
+
+
+## Useful links
+⋅⋅*
+⋅⋅*
+⋅⋅*
