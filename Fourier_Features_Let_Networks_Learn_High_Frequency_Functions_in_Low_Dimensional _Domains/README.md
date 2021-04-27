@@ -21,11 +21,11 @@ Matthew Tancik and Pratul P. Srinivasan and Ben Mildenhall and Sara Fridovich-Ke
 * In an era that anyone wants the fastest way possible to do everything, I ask: can NeRF, even with Fourier feature maping, be applied in a real-time scenario case? (not to my surprise I must say, I found the authors' [most recent article](https://arxiv.org/pdf/2103.14645.pdf), presenting a reformulation on NeRF's archiecture with Sparse Neural Radiance Grid (SNeRG), enabling real-time rendering).
 
 ## Useful links
-* (GitHub.io - Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains)[https://bmild.github.io/fourfeat/]
-* (Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains)[https://www.youtube.com/watch?v=nVA6K6Sn2S4&t=0s]
+* [GitHub.io - Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains](https://bmild.github.io/fourfeat/)
+* [Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains](https://www.youtube.com/watch?v=nVA6K6Sn2S4&t=0s)
 * (Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains (10min talk))[https://www.youtube.com/watch?v=iKyIJ_EtSkw&t=0s]
-* Computer Vision Seminar @ EPFL VITA: (Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains)[https://www.youtube.com/watch?v=h0SXP6lJxak&t=0] (It is a longer version of the previous two links; in the second part of the video they presented a new paper with a Meta-Learning approach- which is very cool, as I said before. However, I didn't feel much difference on my general understanding in their paper on Fourier transform after watching the whole video, although the viewers' questions are very good)
-* (Understanding the Neural Tangent Kernel)[https://rajatvd.github.io/NTK/].  Rajat does an outstanding job here explaining the mathematics behind a Neural Tangent Kernel.
+* Computer Vision Seminar @ EPFL VITA: [Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains](https://www.youtube.com/watch?v=h0SXP6lJxak&t=0) (It is a longer version of the previous two links; in the second part of the video they presented a new paper with a Meta-Learning approach- which is very cool, as I said before. However, I didn't feel much difference on my general understanding in their paper on Fourier transform after watching the whole video, although the viewers' questions are very good)
+* [Understanding the Neural Tangent Kernel](https://rajatvd.github.io/NTK/).  Rajat does an outstanding job here explaining the mathematics behind a Neural Tangent Kernel.
 * [Neural Tangent Kernel: Convergence and Generalization in Neural Networks](https://arxiv.org/pdf/1806.07572.pdf)
 * [Deep Networks Are Kernel Machines (Paper Explained)](https://www.youtube.com/watch?v=ahRPdiCop3E)
 * [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (ML Research Paper Explained)](https://www.youtube.com/watch?v=CRlN-cYFxTk)
